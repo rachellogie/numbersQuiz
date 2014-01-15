@@ -22,7 +22,7 @@ $(document).ready(function(){
 		},
 		{
 		question:"Last one! How many questions were on this quiz?",
-		choices:["Not nearly enough", "12", "5"],
+		choices:["Too many", "12", "5"],
 		}
 	];
 
